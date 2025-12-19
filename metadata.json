@@ -1,0 +1,5 @@
+{
+  "name": "NeuroSolve",
+  "description": "A high-end, AI-powered academic mentor for solving past paper questions from PDFs and text. Features a calm neural-themed interface.",
+  "requestFramePermissions": []
+}
